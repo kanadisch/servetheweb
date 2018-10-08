@@ -7,3 +7,5 @@ fields:
   name: Idea
   description: Applied
   label: Post
+pages:
+- toronto-waterfront-privacy-fiasco.md
