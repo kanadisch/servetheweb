@@ -1,6 +1,10 @@
 ---
 title: Toronto Waterfront Privacy Fiasco
 date: 2018-10-08 22:00:53 +0000
+Idea: ''
 published: false
 
 ---
+## Things to Notice
+
+[https://www.theglobeandmail.com/opinion/article-sidewalk-toronto-is-not-a-smart-city/](https://www.theglobeandmail.com/opinion/article-sidewalk-toronto-is-not-a-smart-city/ "https://www.theglobeandmail.com/opinion/article-sidewalk-toronto-is-not-a-smart-city/") -"Smart cities need to involve experts who protect us from enamoured  politicians who continue to give away Canada’s most valuable intangible  assets to foreign tech giants. As parent company, Alphabet, reminded us  at the announcement a year ago, if Canada retained ownership of the  taxpayer-funded IP and data we recently transferred to them, we would  still have untold billions of dollars available for our cities'  infrastructure and services. A sovereign strategy for smart cities  presents an enormous opportunity for Canadians to develop new  technologies, and new physical and digital infrastructure to serve the  public interest, promote inclusive prosperity and even create new and  better models of urban governance.**"**
